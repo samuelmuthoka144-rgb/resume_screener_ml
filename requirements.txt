@@ -3,4 +3,7 @@ numpy
 scikit_learn
 nltk
 streamlit
+pdfplumber
+google-generativeal
+python-dotenv
 joblib
