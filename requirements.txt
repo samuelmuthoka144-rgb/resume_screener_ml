@@ -4,6 +4,6 @@ scikit_learn
 nltk
 streamlit
 pdfplumber
-google-generativeal
+google-generativeai
 python-dotenv
 joblib
